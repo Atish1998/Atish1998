@@ -7,4 +7,4 @@ About me:
 - 📫 How to reach me: 
 
 STATS:
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Atish1998)](https://github.com/anuraghazra/github-readme-stats&theme=gruvbox)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Atish1998)](https://github.com/anuraghazra/github-readme-stats)
