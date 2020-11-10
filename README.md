@@ -10,6 +10,10 @@ About me:
 
     ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Atish1998&show_icons=true&theme=gruvbox)
     
+ -## The Languages I Use
+
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Atish1998&layout=compact&theme=chartreuse-light" align="center">
+    
 
 
 
